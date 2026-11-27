@@ -18,4 +18,4 @@
 
 ![](evidencia/chasis2.jpeg)
 
-![](evidencia/chasis3.jpeg)
+![](evidencia/chasis3.png)
