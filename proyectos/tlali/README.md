@@ -16,3 +16,8 @@
 - Repositorio: https://github.com/Jesus17632/project-tlali
 - Fotos: 
 
+![](evidencias/gente1.jpeg)
+
+![](evidencias/gente2.jpeg)
+
+![](evidencias/gente3.jpeg)
