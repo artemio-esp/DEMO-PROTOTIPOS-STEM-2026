@@ -16,8 +16,8 @@
 - Renders y resultados de simulación: 
 - Fotos: 
 
-![](evidencia/certificado.jpeg)
+![](evidencia/certificado.png)
 
-![](evidencia/latacoca.jpeg)
+![](evidencia/latacoca.png)
 
 
