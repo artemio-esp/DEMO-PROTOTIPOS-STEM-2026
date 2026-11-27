@@ -2,15 +2,14 @@
 
 | Campo | Dato |
 |---|---|
-| Actividad | Modelado e impresión 3D de refacciones para Katarina, robot autónomo de limpieza de playas (TMR) |
-| Fecha | TODO |
-| Mi rol | TODO |
-| Herramientas | SolidWorks, impresión 3D — TODO |
+| Actividad | Medición, modelado e impresión 3D de refacciones para Katarina, robot autónomo de limpieza de playas (TMR) |
+| Periodo | Otoño 2026 |
+| Equipo y mi rol | TODO — área de mecánica: medición de piezas existentes y modelado para su reproducción |
+| Herramientas | SolidWorks, impresión 3D, PLA |
 
-**Problema:** TODO
+**Objetivo:** Reponer piezas que ya existían en el robot, midiéndolas para reproducirlas por impresión 3D.
 
-**Solución:** TODO
+**Resultado:** Engranes y rines de prototipo para llantas, modelados en SolidWorks e impresos en PLA.
 
 ## Evidencia
-- Fotos de piezas impresas y montadas: TODO
-- Archivos STL: TODO
+- Fotos de las piezas impresas y montadas: TODO (agregar en `evidencia/`)

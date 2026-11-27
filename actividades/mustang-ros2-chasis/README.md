@@ -1,15 +1,15 @@
-# Chasis Ford Mustang '65 — Detección autónoma de baches (ROS2)
+# Chasis Ford Mustang '65 para detección autónoma de baches (ROS2)
 
 | Campo | Dato |
 |---|---|
-| Actividad | Modelado de chasis para sistema de detección de baches autónomo en ROS2 |
-| Fecha | TODO |
-| Mi rol | TODO |
+| Actividad | Modelado de un chasis Ford Mustang para un sistema de detección de baches autónomo en ROS2 |
+| Periodo | Verano 2026 |
+| Equipo y mi rol | TODO — diseño del chasis y del sistema de dirección |
 | Herramientas | SolidWorks, ROS2 |
 
-**Problema:** TODO (1 línea)
+**Objetivo:** Contar con un modelo de vehículo con geometría y dirección realistas para el programa de simulación de detección de baches en ROS2.
 
-**Solución:** Modelo del chasis con dirección Ackermann (distancia entre ejes 2743 mm, vía 1422 mm): mangueta, cremallera, bieletas, piñón y ruedas.
+**Resultado:** Chasis diseñado en SolidWorks (distancia entre ejes de 2743 mm, vía de 1422 mm) con dirección Ackermann de cremallera y piñón: mangueta, cremallera, bieletas, piñón y ruedas.
 
 ## Evidencia
-- Capturas / plano (PDF): TODO
+- Capturas del modelo y del sistema de dirección: TODO (agregar en `evidencia/`)
