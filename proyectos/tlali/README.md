@@ -14,3 +14,10 @@
 
 ## Evidencia
 - Repositorio: https://github.com/Jesus17632/project-tlali
+- Fotos: 
+
+![](evidencia/auditorio.jpeg)
+
+![](evidencia/equipo.jpeg)
+
+![](gafet/brainstorm.jpeg)

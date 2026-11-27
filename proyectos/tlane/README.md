@@ -18,6 +18,7 @@
 
 ## Evidencia
 - Repositorio: https://github.com/artemio-esp/Tlane
+- Fotos: 
 
 ![Equipo](evidencia/equipo.jpeg)
 
