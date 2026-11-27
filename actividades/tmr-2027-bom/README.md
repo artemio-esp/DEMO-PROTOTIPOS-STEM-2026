@@ -2,14 +2,15 @@
 
 | Campo | Dato |
 |---|---|
-| Actividad | Listas de materiales (BOM) para el Torneo Mexicano de Robótica 2027 |
-| Fecha | TODO |
-| Mi rol | TODO |
-| Herramientas | TODO |
+| Actividad | Listas de materiales de Katarina y AutoModelCar para el Torneo Mexicano de Robótica 2027 |
+| Periodo | Otoño 2026 |
+| Equipo y mi rol | Área de Mecánica |
+| Formato | Presentaciones (PDF) |
 
-**Problema:** TODO
+**Objetivo:** Definir los materiales necesarios para construir Katarina y el vehículo AutoModelCar de cara a la edición 2027 del torneo.
 
-**Solución:** TODO
+**Resultado:** Dos presentaciones con las listas de materiales.
 
-## Evidencia
-- Lista de materiales: [bom.csv](bom.csv) — TODO
+## Presentaciones
+- [Lista de materiales — Katarina](evidencia/katarina.pdf)
+- [Lista de materiales — AutoModelCar](evidencia/automodel.pdf)
