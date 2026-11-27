@@ -25,11 +25,11 @@
 * Repositorio: https://github.com/artemio-esp/Tlane
 * Fotos: 
 
-\[Equipo](evidencia/equipo.jpeg)
+![Equipo](evidencia/equipo.jpeg)
 
-\[Entrenamiento del modelo CoreML](evidencia/coreml.jpeg)
+![Entrenamiento del modelo CoreML](evidencia/coreml.jpeg)
 
-\[Lluvia de ideas](evidencia/brainstorm.jpeg)
+![Lluvia de ideas](evidencia/brainstorm.jpeg)
 
 
 
