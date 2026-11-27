@@ -3,16 +3,14 @@
 | Campo | Dato |
 |---|---|
 | Competencias | Swift Student Challenge 2026 · Infomatrix Puebla 2026 |
-| Fecha y sede | TODO |
-| Equipo y mi rol | TODO |
-| Reconocimiento | 🥉 Medalla de Bronce — Infomatrix Puebla 2026 · Swift Student Challenge: TODO |
+| Fecha y sede | Swift Student Challenge: remoto, 6 al 28 de febrero de 2026 · Infomatrix Puebla: 20 de marzo de 2026, Puebla |
+| Equipo y mi rol | Desarrollo y diseño (proyecto individual) |
+| Reconocimiento | 🥉 Medalla de Bronce (Infomatrix Puebla 2026) · Participación (Swift Student Challenge 2026) |
 | Stack | Swift, SwiftUI, Core Data (offline-first) |
 
-**Problema:** TODO (1 línea)
+**Problema:** La escasez de agua exige gestionar mejor el recurso disponible.
 
-**Solución:** App de gestión de agua que funciona sin conexión.
+**Solución:** App de gestión hídrica para momentos de escasez, que funciona sin conexión.
 
 ## Evidencia
 - Repositorio: https://github.com/artemio-esp/HydroNomos
-- Constancia Infomatrix: TODO
-- Confirmación Swift Student Challenge: TODO
