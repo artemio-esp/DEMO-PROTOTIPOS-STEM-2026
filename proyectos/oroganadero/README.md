@@ -20,4 +20,4 @@
 
 ![](evidencia/equipo.jpeg)
 
-![](gafet/brainstorm.jpeg)
+![](evidencia/gafet.jpeg)
