@@ -1,4 +1,4 @@
-# Actividades STEM UDLAP — Otoño 2026
+# Actividades STEM UDLAP — 2026
 
 Artemio Espino Argüelles · Ingeniería Mecánica, UDLAP
 
@@ -16,3 +16,4 @@ Artemio Espino Argüelles · Ingeniería Mecánica, UDLAP
 - [Modelado de chasis Ford Mustang para detección de baches autónoma en ROS2](actividades/mustang-ros2-chasis)
 - [Prototipado de chasis para AutoModelCar](actividades/automodelcar-chasis)
 - [Modelado e impresión de refacciones de Katarina](actividades/katarina-refacciones)
+- [Listas de materiales TMR 2027](actividades/tmr-2027-bom)
