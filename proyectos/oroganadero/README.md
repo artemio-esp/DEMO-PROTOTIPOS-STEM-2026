@@ -16,8 +16,8 @@
 - Repositorio: https://github.com/Jesus17632/project-oro-ganadero
 - Fotos: 
 
-![](evidencia/auditorio.jpeg)
+![](evidencia/auditorio1.jpeg)
 
-![](evidencia/equipo.jpeg)
+![](evidencia/equipo2.jpeg)
 
 ![](evidencia/gafet.jpeg)
