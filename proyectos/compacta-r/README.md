@@ -13,4 +13,11 @@
 **Solución:** Compactador manual de residuos con mecanismo de palanca articulada, cuerpo de PVC con ranuras guía y base de HDPE. Su diseño está validado en simulación; aún no tiene prototipo físico.
 
 ## Evidencia
-- Renders y resultados de simulación: TODO (agregar en `evidencia/`)
+- Renders y resultados de simulación: 
+- Fotos: 
+
+![](evidencia/certificado.jpeg)
+
+![](evidencia/latacoca.jpeg)
+
+
