@@ -4,7 +4,7 @@
 |---|---|
 | Competencia | AAKRUTI Innovation Competition 2026 (Dassault Systèmes) — categoría Local Community Problems |
 | Fecha y sede | Remoto (virtual); junio 2026 – en curso |
-| Equipo y mi rol | Con Elías, Andrea y Arlet — mi rol: diseño (modelado 3D), costeos, renderizados e investigación |
+| Equipo y mi rol | Con Elías, Andrea y Arlette — mi rol: diseño (modelado 3D), costeos, renderizados e investigación |
 | Reconocimiento | Participante (en curso) |
 | Stack | SolidWorks (modelado, Motion Study y simulación estática) |
 
